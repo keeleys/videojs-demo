@@ -14,7 +14,8 @@
     "object-curly-spacing": 0,
     "no-console": 1,
     "no-param-reassign": [1, { "props": false }],
-    "consistent-return": 1
+    "consistent-return": 1,
+    "func-names": 0
   },
   "extends": "airbnb/base"
 }
